@@ -22,6 +22,7 @@ Very interested in cybersecurity from the good place.
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+  ![vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify&logoColor=007ACC)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
